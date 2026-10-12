@@ -12,7 +12,7 @@ Se entrenan y evalúan tres modelos de clasificación para determinar cuál pres
 
 Se utiliza el **Dry Bean Dataset**, disponible en el repositorio de la Universidad de California en Irvine (UCI).
 
-- **Fuente:** [Dry Bean Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/602/dry+bean+dataset)
+- **Fuente:** Dry Bean Dataset
 - **Número de observaciones:** 13.611.
 - **Variables predictoras:** 16 variables numéricas.
 - **Variable objetivo:** `Class`.
