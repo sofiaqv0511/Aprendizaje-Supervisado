@@ -1,4 +1,6 @@
 # Trabajo Práctico 2: Aprendizaje Supervisado
+### Sofía Quiroz Valencia 
+### Ciencia de Datos II
 
 ## 1. Descripción del proyecto
 
